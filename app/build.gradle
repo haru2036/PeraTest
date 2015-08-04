@@ -24,7 +24,7 @@ android {
     defaultConfig {
         applicationId "jp.haru2036.peratest.app"
         minSdkVersion 14
-        targetSdkVersion 14
+        targetSdkVersion 20
         versionCode 1
         versionName "1.0"
     }
